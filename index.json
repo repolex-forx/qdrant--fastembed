@@ -1,0 +1,11 @@
+{
+  "org": "qdrant",
+  "repo": "fastembed",
+  "versions": [
+    {
+      "commit": "de502ca83baa2b81922cb5a46acf689f5e2c72a1",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:32:06.604982+00:00"
+    }
+  ]
+}
